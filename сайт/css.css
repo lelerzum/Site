@@ -1,0 +1,237 @@
+body {
+	background: black;
+}
+.center{
+	width: 820px;
+	height: 600px;
+	background-color: #4BA823;
+	position: relative;
+	top: -1220px;
+	left: 350px;
+}
+.head {
+	background-color: #4BA823;
+	height: 150px;
+	border: solid;
+	border-width: 10px;
+}
+.logo {
+	margin: -140px;
+	margin-left: 30px;
+	height: 450px;
+	width: 450px;
+}
+.left {
+	width: 350px;
+	height: 600px;
+	background: black;
+}
+.one {
+	width: 350px;
+	height: 600px;
+}
+.right {
+	width: 350px;
+	height: 600px;
+	background: black;
+	margin-left: 1153px;
+	position: relative;
+	top: -600px;
+}
+.two {
+	width: 350px;
+	height: 600px;
+}
+.text {
+	font-size: 20px;
+}
+.floor {
+	background-color: #4BA823;
+	height: 150px;
+	border: solid;
+	border-width: 10px;
+	margin-top: -1220px;
+}
+.text {
+	margin-left: 10px;
+	font-size: 20px;
+}
+.bottom1 {
+	width: 180px;
+	height: 50px;
+	border: solid;
+	border-width: 5px;
+	margin-top: 100px;
+	margin-left: 280px;
+	padding-bottom: 30px;
+	border-radius: 10px 20px;
+	padding-left: 30px;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+.bottom2 {
+	width: 180px;
+	height: 50px;
+	border: solid;
+	border-width: 5px;
+	position: relative;
+	margin-top: -90px;
+	margin-left: 520px;
+	padding-bottom: 30px;
+	border-radius: 10px 20px;
+	padding-left: 30px;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+.div1 {
+	background-color: rgba(0, 0, 0, 0.2);
+	border: solid;
+	border-width: 5px;
+	width: 170px;
+	height: 70px;
+	margin-top: -140px;
+	margin-left: 1220px;
+}
+.div2 {
+	background-color: rgba(0, 0, 0, 0.2);
+	border: solid;
+	border-width: 5px;
+	width: 170px;
+	height: 70px;
+	margin-top: -80px;
+	margin-left: 1040px;
+}
+.div3 {
+	background-color: rgba(0, 0, 0, 0.2);
+	border: solid;
+	border-width: 5px;
+	width: 170px;
+	height: 70px;
+	margin-top: -80px;
+	margin-left: 870px;
+}
+.div4 {
+	background-color: rgba(0, 0, 0, 0.2);
+	border: solid;
+	border-width: 5px;
+	width: 170px;
+	height: 70px;
+	margin-top: -80px;
+	margin-left: 690px;
+}
+.ftext {
+	margin-top: 50px;
+	margin-left: 50px;
+}
+.e {
+	font-size: 25px;
+	color: black;
+	font-style: none;
+	text-decoration: none;
+	margin-left: 30px;
+	margin-top: -10px;
+}
+.inst {
+	width: 50px;
+	height: 50px;
+	position: relative;
+	margin-left: 500px;
+}
+.f {
+	width: 50px;
+	height: 50px;
+	position: relative;
+	margin-left: 50px;
+}
+.t {
+	width: 50px;
+	height: 50px;
+	position: relative;
+	margin-left: 50px;
+}
+.logos {
+	margin-top: -120px;
+}
+.modalDialog {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0, 0, 0, 0.7);
+	display: none;
+}
+.modalDialog:target {
+	display: block;
+}
+.modalDialog > div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 15px 10px 15px;
+	border: 1px solid black;
+	border-radius: 10px;
+	background: linear-gradient(90deg, 	forestgreen, lawngreen, palegreen);
+}
+.z {
+	text-decoration: none;
+	color: black;
+}
+.close {
+	font-size: 25px;
+	text-decoration: none;
+	color: red;
+	margin-left: 380px;
+}
+.close:hover {
+	color: blue;
+	font-size: 30px;
+}
+.submit {
+	width: 100px;
+	height: 30px;
+
+}
+.star {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0, 0, 0, 0.7);
+	display: none;
+}
+.star:target {
+	display: block;
+}
+.star > div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 15px 10px 15px;
+	border: 1px solid black;
+	border-radius: 10px;
+	background: linear-gradient(90deg, 	forestgreen, lawngreen, palegreen);
+}
+.z {
+	text-decoration: none;
+	color: black;
+}
+.m {
+	width: 25px;
+	height: 25px;
+}
+.n {
+	width: 25px;
+	height: 25px;
+}
+.b {
+	width: 25px;
+	height: 25px;
+}
+.v {
+	width: 25px;
+	height: 25px;
+}
+.c {
+	width: 25px;
+	height: 25px;
+}
